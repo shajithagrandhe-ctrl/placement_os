@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "D:/placement_os/linux",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.debug.settings.onBuildFailureProceed": true
+}
